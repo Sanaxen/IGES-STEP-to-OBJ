@@ -7,6 +7,8 @@ igescnv.exe IGESorSTEP_File -o objbasename -edge [0,1]
  ex)
  igescnv.exe model.igs -o model
  
+<img src="https://github.com/Sanaxen/IGES-STEP-to-OBJ/blob/master/image/image1.png"/>
+ 
 
 ex)
 igescnv_write.exe CP.dat -o igesFile.igs
