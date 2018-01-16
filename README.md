@@ -11,5 +11,5 @@ igescnv.exe IGESorSTEP_File -o objbasename -edge [0,1]
 ex)
 igescnv_write.exe CP.dat -o igesFile.igs
 
-CP.dat
+CP.dat　is the control point data file.
 https://github.com/Sanaxen/OBJ-to-IGES
