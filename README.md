@@ -19,3 +19,10 @@ igescnv_write.exe CP.dat -o igesFile.igs
 
 CP.dat　is the control point data file.
 https://github.com/Sanaxen/OBJ-to-IGES
+
+
+## Requirements
+Visual Studio 
+
+## External Libraries 
+OpenCASCADE7.1.0-vc10-64
